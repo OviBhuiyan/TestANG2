@@ -72,6 +72,9 @@
     <Content Include="bs-config.json" />
     <Content Include="package.json" />
     <Content Include="tslint.json" />
+    <Content Include="src\app\app.component.js.map" />
+    <Content Include="src\app\app.component.spec.js.map" />
+    <Content Include="src\app\app.module.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -80,6 +83,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="src\app\app.component.js" />
+    <Content Include="src\app\app.component.spec.js" />
+    <Content Include="src\app\app.module.js" />
     <Content Include="src\favicon.ico" />
     <Content Include="src\index.html" />
     <Content Include="src\styles.css" />
